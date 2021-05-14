@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "functions.h"
+//#include "functions.h"
 
 int somme (int a, int b)
 {
@@ -38,7 +38,7 @@ void swap(int* a, int* b)
 int main()
 {
 
-	affiche1();
+	//affiche1();
 	int* pt;
 
 	printf("first gcc exemple\n");
